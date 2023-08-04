@@ -55,7 +55,7 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 ## What I Leanred 
 
-1. GitHub Gist (sort of still need to figure out how to put raw code into preview on Github Gist)
+1. GitHub Gist
 2. Leanred knowledge on Regex patterns (email)
 3. Tried my best to communicate my knowledge on the research I did
 
@@ -63,7 +63,6 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 1. Expand my Knowledge on this topic
 2. Enchance the tutorial I created with more examples
-3. Fix raw code to show as a preview on Gist
 
 ## Author 
 

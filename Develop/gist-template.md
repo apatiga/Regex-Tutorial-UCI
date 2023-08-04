@@ -101,6 +101,8 @@ Character escapes play an important part in guaranteeing correct text pattern ma
 
 ## Author
 
-Deployed GitHub-Gist Link: 
+Juan Apatiga 
 
-GitHub Repository:
+Deployed GitHub-Gist Link: https://gist.github.com/apatiga/634d3621a2ff1f80919dc87835931819
+
+GitHub Repository: https://github.com/apatiga/Regex-Tutorial-UCI.git 
